@@ -1,4 +1,3 @@
-主要参考书籍：
+- ### [Statistics for Communication Studies](https://github.com/zhiliang-lin/statistics-for-communication-studies)
 
-- 统计学原理实验教程- 刘必清 等
-- 用Python动手学统计学 - [日]马场真哉
+  > The course covers statistical concepts from descriptive statistics to regression analysis. Students are taught to use Excel, SPSS and Python to learn and practice statistics.
